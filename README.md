@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @labordeeric
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on Web Development / Software Development (JAVA)
+- 💞️ I’m looking to collaborate on Web Development / Software Development (.NET Framework)
 - 📫 How to reach me https://www.linkedin.com/in/ambinintsoa-eric-laborde/
 
 <!---
